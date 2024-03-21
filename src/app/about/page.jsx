@@ -222,7 +222,7 @@ const AboutPage = () => {
                   </div>
                 </div>
                 {/* RIGHT */}
-                <div className="w-1/3 "></div>
+                <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Junior Graphic Designer

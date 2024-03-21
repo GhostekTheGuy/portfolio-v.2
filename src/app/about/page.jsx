@@ -215,19 +215,19 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Junior Product Designer
+                    DTP Designer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                  I helped with the visual identification of the brand. I took part in creating an effective branding campaign and creating clothing fashion projects.{" "}
+                  I have created high-quality graphic materials, from printed to digital projects, for various clients. My work included designing layouts (stickers) for industrial machinery.{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    May 2021 - Sep 2021
+                    Feb 2023 - Jan 2024
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Interstalar
+                    Liftbay Polska 
                   </div>
                 </div>
                 {/* CENTER */}

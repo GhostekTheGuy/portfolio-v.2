@@ -193,19 +193,19 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Junior Graphic Designer
+                    Freelance Graphic Designer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                  I was responsible for creating visual content for Facebook Ads campaigns.{" "}
+                  I am constantly learning and setting new horizons for myself.{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    Aug 2022 - Jan 2023{" "}
+                    2020 - Present{" "}
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Skymedica
+                    Selfemployed
                   </div>
                 </div>
               </div>

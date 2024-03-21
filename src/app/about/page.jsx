@@ -179,8 +179,9 @@ const AboutPage = () => {
 
               {/* EXPERIENCE LIST ITEM */}
               <div className="flex justify-between h-48">
-                {/* LEFT */}
-                <div className="w-1/3 ">
+                {/* RIGHT */}
+                <div className="w-1/3 "></div>
+              </div>
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
                     Freelanace Designer
@@ -206,9 +207,8 @@ const AboutPage = () => {
                     <div className="absolute w-5 h-5 rounded-full ring-4 ring-red-400 bg-white -left-2"></div>
                   </div>
                 </div>
-                {/* RIGHT */}
-                <div className="w-1/3 "></div>
-              </div>
+                {/* LEFT */}
+                <div className="w-1/3 ">
               {/* EXPERIENCE LIST ITEM */}
               <div className="flex justify-between h-48">
                 {/* LEFT */}

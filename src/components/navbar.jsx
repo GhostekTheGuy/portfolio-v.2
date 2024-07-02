@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 const links = [
   { url: "/", title: "Home" },
   { url: "/about", title: "About" },
-  { url: "/portfolio", title: "Portfolio" },
+  { url: "https://ghostek-portfolio.vercel.app/", title: "Portfolio" },
   { url: "/contact", title: "Contact" },
 ];
 

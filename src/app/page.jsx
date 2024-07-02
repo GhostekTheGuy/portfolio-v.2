@@ -31,7 +31,7 @@ const Homepage = () => {
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
-          <a href="https://drive.google.com/drive/folders/1gZEWjeWQxAIjo1JfPkhWtDzvk2yIpnx_" className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
+          <a href="https://ghostek-portfolio.vercel.app" className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
               View My Work
           </a>
             <a href="/contact" className="p-4 rounded-lg ring-1 ring-black">
